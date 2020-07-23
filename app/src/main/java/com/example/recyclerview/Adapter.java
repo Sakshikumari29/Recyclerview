@@ -12,6 +12,7 @@ import com.example.recyclerview.R;
 
 import java.util.List;
 
+
 public class Adapter extends RecyclerView.Adapter<Adapter.Viewholder> {
 
 private List<ModelClass> modelClassList;

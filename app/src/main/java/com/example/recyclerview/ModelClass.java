@@ -2,6 +2,7 @@ package com.example.recyclerview;
 
 public class ModelClass {
 
+
     private int imageResource;
     private String title;
     private String body;
